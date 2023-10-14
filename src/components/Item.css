@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+.male {
+  box-shadow: rgb(0, 107, 0) 0px 1px 5px;
+}
+
+.female {
+  box-shadow: rgb(199, 0, 199) 0px 1px 5px;
+}

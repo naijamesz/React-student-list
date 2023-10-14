@@ -1,0 +1,14 @@
+{
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact",
+    "vue-html": "html",
+    "vue": "html"
+  },
+  "editor.formatOnType": true,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.preferences": {},
+  "emmet.triggerExpansionOnTab": true
+}
